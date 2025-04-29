@@ -41,12 +41,12 @@ I write and break code in:
 
 ## Projects
 - [All-in-One Network Tool](https://github.com/mrTr1cky/mrtr1cky)
-- [linux_priv_Guid](https://github.com/mrTr1cky/linux_priv_Guid)
-- - [linux_priv_Guid](https://github.com/mrTr1cky/linux_priv_Guid)
-  - - [linux_priv_Guid](https://github.com/mrTr1cky/linux_priv_Guid)
-    - - [linux_priv_Guid](https://github.com/mrTr1cky/linux_priv_Guid)
-      - - [linux_priv_Guid](https://github.com/mrTr1cky/linux_priv_Guid)
-        - - [linux_priv_Guid](https://github.com/mrTr1cky/linux_priv_Guid)
+- [linux_priv_Guid](https://github.com/mrTr1cky/madfilter)
+- - [cors](https://github.com/mrTr1cky/cors)
+  - - [spyder](https://github.com/mrTr1cky/spyder)
+    - - [pr5](https://github.com/mrTr1cky/pr5)
+      - - [Crawler](https://github.com/mrTr1cky/crawler)
+        - - [subsex](https://github.com/mrTr1cky/subsex)
 
 
 ### 📫 Let's Connect
