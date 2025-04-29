@@ -39,6 +39,16 @@ I write and break code in:
 
 ---
 
+## Projects
+- [All-in-One Network Tool](https://github.com/mrTr1cky/mrtr1cky)
+- [linux_priv_Guid](https://github.com/mrTr1cky/linux_priv_Guid)
+- - [linux_priv_Guid](https://github.com/mrTr1cky/linux_priv_Guid)
+  - - [linux_priv_Guid](https://github.com/mrTr1cky/linux_priv_Guid)
+    - - [linux_priv_Guid](https://github.com/mrTr1cky/linux_priv_Guid)
+      - - [linux_priv_Guid](https://github.com/mrTr1cky/linux_priv_Guid)
+        - - [linux_priv_Guid](https://github.com/mrTr1cky/linux_priv_Guid)
+
+
 ### 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/khayrolislam/)
