@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👨‍💻 Khayrol Islam
 
-<!--
-**mrTr1cky/mrtr1cky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Electrical Engineer ⚡ | Cybersecurity Researcher 🛡️ | Ethical Hacker 💻**
 
-Here are some ideas to get you started:
+🔞 Age: 25  
+📍 Based in: Bangladesh  
+🧠 Always learning | 🛠️ Always building | 🧪 Always testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔐 About Me
+
+Hi there! I'm **Khayrol Islam**, an Electrical and Cybersecurity researcher passionate about ethical hacking, system security, and real-world exploitation. My focus is on **web application pentesting**, **network attacks and defense**, and **Android security**. I also love working with hardware, building tools, and automating tasks that simplify life for hackers and sysadmins.
+
+I write and break code in:
+
+- 🐍 Python
+- 🐚 Bash
+- 🌐 JavaScript
+- 🦫 Go
+
+---
+
+### 🛠️ Domains I Work In
+
+- 🕸️ Web Application Pentesting (OWASP Top 10, SSRF, IDOR, RCE, etc.)
+- 📱 Android Application Testing & Reverse Engineering
+- 🌐 Network Security (MITM, spoofing, packet crafting, etc.)
+- 🧰 Red Team Tooling and Scripting
+- 🔧 Hardware and embedded systems (IoT, wireless, RF)
+
+---
+
+### 🚀 Goals
+
+- Build and contribute to open-source security tools  
+- Stay ahead in threat research and vulnerability discovery  
+- Help secure the digital world—one exploit at a time
+
+---
+
+### 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/khayrolislam/)
+- 🐦 [Twitter/X](https://twitter.com/khayrol_islam)
+- 🌐 [Personal Blog/Website](https://0xmad.me) 
+- FB  [Facebook ](https://facebook.com/khayrol.islam.35)
+---
+
+> 💡 *“Hack to learn. Learn to hack.”*
+
+
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/madtiger.png" alt="TryHackMe Badge" />
