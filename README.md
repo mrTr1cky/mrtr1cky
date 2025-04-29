@@ -22,7 +22,7 @@ I write and break code in:
 ---
 
 ### 🛠️ Domains I Work In
-
+- 🐧 **Linux Mastery:** Kernel, system internals, bash scripting, hardening
 - 🕸️ Web Application Pentesting (OWASP Top 10, SSRF, IDOR, RCE, etc.)
 - 📱 Android Application Testing & Reverse Engineering
 - 🌐 Network Security (MITM, spoofing, packet crafting, etc.)
@@ -48,14 +48,17 @@ I write and break code in:
       - - [Crawler](https://github.com/mrTr1cky/crawler)
         - - [subsex](https://github.com/mrTr1cky/subsex)
 
-
 ### 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/khayrolislam/)
-- 🐦 [Twitter/X](https://twitter.com/khayrol_islam)
-- 🌐 [Personal Blog/Website](https://0xmad.me) 
-- FB  [Facebook ](https://facebook.com/khayrol.islam.35)
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/khayrolislam/" target="_blank">💼 LinkedIn</a> • 
+  <a href="https://twitter.com/khayrol_islam" target="_blank">🐦 Twitter/X</a> • 
+  <a href="https://facebook.com/khayrol.islam.35" target="_blank">📘 Facebook</a> • 
+  <a href="https://0xmad.me" target="_blank">🌐 Blog/Website</a> • 
+  <a href="mailto:khayrolislam@hotmail.com">📧 Email</a> • 
+  <a href="https://t.me/DevidLuice" target="_blank">📲 Telegram</a>
+</p>
+
 
 > 💡 *“Hack to learn. Learn to hack.”*
 
