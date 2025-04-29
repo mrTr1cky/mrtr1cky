@@ -1,6 +1,6 @@
 # 👨‍💻 Khayrol Islam
 
-**Cybersecurity Researcher 🛡️ | Ethical Hacker 💻 | Electrical Engineer ⚡ **
+**Cybersecurity Researcher 🛡️ | Ethical Hacker 💻 | Tooling 🔩 | Electrical Engineer ⚡ **
 
 🔞 Age: 25  
 📍 Based in: Bangladesh  
